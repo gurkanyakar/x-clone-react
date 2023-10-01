@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 body {
-    @apply bg-black text-white
+    @apply bg-black text-white text-[15px]
 }
 
 /*
-sol side bar 275 px
-sağ side bar 350 px
-content alanı  = auto
+left side bar 275 px
+right side bar 350 px
+content  = auto
 
 genişlik 1265px
 
